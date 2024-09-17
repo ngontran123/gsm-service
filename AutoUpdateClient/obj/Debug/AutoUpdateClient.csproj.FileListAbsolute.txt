@@ -1,0 +1,17 @@
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\AutoUpdateClient.exe.config
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\AutoUpdateClient.exe
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\AutoUpdateClient.pdb
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.csproj.AssemblyReference.cache
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.Form1.resources
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.Properties.Resources.resources
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.csproj.GenerateResource.cache
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.csproj.CoreCompileInputs.cache
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.exe
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpdateClient.pdb
+D:\Alll data\GSMSERVICES\AutoUpdateClient\obj\Debug\AutoUpda.8CA5C69A.Up2Date
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\PropertyChanged.dll
+D:\Alll data\GSMSERVICES\AutoUpdateClient\bin\Debug\PropertyChanged.xml

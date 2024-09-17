@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMSERVICES", "GSMSERVICES\GSMSERVICES.csproj", "{77D818A9-0B2E-42D3-807D-40490B64B48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdateClient", "AutoUpdateClient\AutoUpdateClient.csproj", "{6FB7047A-961C-4CD5-87C9-64F94E4E3476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D818A9-0B2E-42D3-807D-40490B64B48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D818A9-0B2E-42D3-807D-40490B64B48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D818A9-0B2E-42D3-807D-40490B64B48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D818A9-0B2E-42D3-807D-40490B64B48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB7047A-961C-4CD5-87C9-64F94E4E3476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB7047A-961C-4CD5-87C9-64F94E4E3476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB7047A-961C-4CD5-87C9-64F94E4E3476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB7047A-961C-4CD5-87C9-64F94E4E3476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75D0203-F3B2-4F5A-BFA0-AE3591EE549B}
+	EndGlobalSection
+EndGlobal
